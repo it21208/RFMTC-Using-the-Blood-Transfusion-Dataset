@@ -8,3 +8,5 @@
 #### For more relevant information please visit the following web pages:
 - https://en.wikipedia.org/wiki/RFM_(market_research)
 - https://archive.ics.uci.edu/ml/datasets/Blood+Transfusion+Service+Center
+
+RFMTC: https://en.wikipedia.org/wiki/RFM_(market_research)#Variations
