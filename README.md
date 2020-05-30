@@ -2,7 +2,6 @@
 <img src="https://github.com/it21208/RFMTC-Implementation-Using-the-CDNOW-dataset/blob/master/rfmtc_logo.png" width="360">
 </p>
 
-
 ## RFMTC-Using-the-Blood-Transfusion-Dataset
 ### Author: Alexandros Ioannidis
 #### The only parameter that changes in the execution of the program is the RUN_TYPE variable. 
